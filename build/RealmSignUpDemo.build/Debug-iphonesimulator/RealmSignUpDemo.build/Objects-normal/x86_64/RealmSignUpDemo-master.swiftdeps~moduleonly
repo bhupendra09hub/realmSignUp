@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "d6d23cfbda8c02a08a7a44290becf1b9"
+build_time: [1596190495, 864729000]
+inputs:
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/UserListCell.swift": [1596112348, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/RealmModel.swift": [1596179257, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/SignUPVC.swift": [1596171805, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/PopUpView.swift": [1596171422, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/SignInVC.swift": [1596187483, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/UserListVC.swift": [1596183522, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/UpdateVC.swift": [1596187483, 0]
+  "/Users/mac/Documents/Bhupendra/RealmSignUpDemo/RealmSignUpDemo/AppDelegate.swift": [1596096906, 0]

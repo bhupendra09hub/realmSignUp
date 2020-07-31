@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/Realm/RLMNetworkClient.mm \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Target\ Support\ Files/Realm/Realm-prefix.pch \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMNetworkClient.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncUtil_Private.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncUtil.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMConstants.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMProperty.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMRealmConfiguration.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMRealm.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncCredentials.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMJSONModels.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncUtil_Private.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncConfiguration_Private.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncConfiguration.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncPermission.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMObject.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMObjectBase.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMThreadSafeReference.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/sync/sync_manager.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/shared_realm.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/execution_context_id.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/util/aligned_union.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/schema.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/sync/sync_user.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/util/atomic_shared_ptr.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncManager_Private.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMSyncManager.h \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMUtil.hpp \
+  /Users/mac/Documents/Bhupendra/RealmSignUpDemo/Pods/Realm/include/RLMOptionalBase.h

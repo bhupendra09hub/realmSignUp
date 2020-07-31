@@ -1,0 +1,6 @@
+framework module Pods_RealmSignUpDemo {
+  umbrella header "Pods-RealmSignUpDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
